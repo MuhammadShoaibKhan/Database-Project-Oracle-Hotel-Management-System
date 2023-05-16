@@ -1,0 +1,36 @@
+E:\Programs\C#\Database Project msk\Database Project msk\bin\Debug\Database Project msk.exe.config
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database Project msk.csprojResolveAssemblyReference.cache
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form1.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Main.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Properties.Resources.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database Project msk.csproj.GenerateResource.Cache
+E:\Programs\C#\Database Project msk\Database Project msk\bin\Debug\Database Project msk.exe
+E:\Programs\C#\Database Project msk\Database Project msk\bin\Debug\Database Project msk.pdb
+E:\Programs\C#\Database Project msk\Database Project msk\bin\Debug\Oracle.DataAccess.dll
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database Project msk.exe
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database Project msk.pdb
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Interop.OLEDBError.dll
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database Project msk.csproj.ResolveComReference.cache
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form4.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.MainMenu.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form5.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form6.resources
+E:\Programs\C#\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form7.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\bin\Debug\Database Project msk.exe.config
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Interop.OLEDBError.dll
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database Project msk.csproj.ResolveComReference.cache
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database Project msk.exe
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database Project msk.pdb
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\bin\Debug\Database Project msk.exe
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\bin\Debug\Database Project msk.pdb
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\bin\Debug\Oracle.DataAccess.dll
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database Project msk.csprojResolveAssemblyReference.cache
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form1.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Main.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form6.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form7.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.MainMenu.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form4.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Form5.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database_Project_msk.Properties.Resources.resources
+F:\UBIT\5th Semester\Database\Project\Database project Oracle\Database Project msk\Database Project msk\obj\Debug\Database Project msk.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+select * from batman12.cust_details where cust_id = 4
+select name from batman12.cust_details where cust_id = 4

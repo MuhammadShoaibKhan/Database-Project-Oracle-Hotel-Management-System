@@ -1,0 +1,22 @@
+REM INSERTING into BATMAN12.CUST_DETAILS
+SET DEFINE OFF;
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (1,'Imran Ahmed','Block 1, Street 2',123,'imran@xyz.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (2,'Saif Taimoor','Block 3, Street 3',222,'saif@abc.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (3,'Sara Khan','Block 10, Street 3',435,'sara@xyz.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (4,'Junaid Hassan','Block 7, Street 3',434,'junaid@abc.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (5,'Arsalan Umer','Block 8, Street 1',162,'arsalan@tuv.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (6,'Ibrahim Tariq','Block 8, Street 8',325,'ibrahim@uvx.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (7,'Arham Saeed','Block 2, Street 8',646,'arham@qrt.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (8,'Mustaqeem Razak','Block 1, Strret 6',434,'mustaqeem@ert.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (9,'Hassan Khan','Block 5, Strret 7',231,'hassan@qwe.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (10,'Haism Qamar','Block 7, Street 9',879,'haism@tty.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (11,'Imran Waqar','Block 10, Street 3',331,'imran@guv.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (12,'Adnan Faiq','Block 3, Street 8',122,'adnan@zxc.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (13,'Kamran Tariq','Block 1, Street 4',127,'kamran@ert.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (14,'Kamil Mushtaq','Block 6, Strret 2',336,'kamil@bbn.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (15,'Usama Noor','Block 9, Street 3',446,'usama@xyz.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (16,'Mubeen Qaiser','Block 2, Street 5',667,'mubeen@uvx.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (17,'Bilal Imam','Block 7, Street 9',768,'bilal@qrt.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (18,'Idrees Shabbir','Block 3, Strret 2',796,'idrees@vux.comi');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (19,'Talha Farooq','Block 2, Street 1',536,'talha@ytv.com');
+Insert into BATMAN12.CUST_DETAILS (CUST_ID,NAME,ADDRESS,PHONE_NO,EMAIL_ID) values (20,'Hiba Anwar','Block 1, Street 7',667,'hiba@ssp.com');

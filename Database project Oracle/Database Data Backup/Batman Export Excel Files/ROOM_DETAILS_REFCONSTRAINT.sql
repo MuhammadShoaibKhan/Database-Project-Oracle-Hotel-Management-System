@@ -1,0 +1,8 @@
+--------------------------------------------------------
+--  Ref Constraints for Table ROOM_DETAILS
+--------------------------------------------------------
+
+  ALTER TABLE "BATMAN12"."ROOM_DETAILS" ADD CONSTRAINT "CUST_DETAILS_FOREIGN" FOREIGN KEY ("ROOM_NO")
+	  REFERENCES "BATMAN12"."CUST_DETAILS" ("CUST_ID") ENABLE;
+  ALTER TABLE "BATMAN12"."ROOM_DETAILS" ADD CONSTRAINT "ROOM_DUR_FOREIGN" FOREIGN KEY ("ROOM_NO")
+	  REFERENCES "BATMAN12"."DURATION" ("DURATION_ID") ENABLE;
